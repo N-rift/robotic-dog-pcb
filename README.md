@@ -23,7 +23,7 @@ This board hosts the microcontroller and provides all the connections needed to 
 | SERVO_BL | Back-left servo (GND / V+ / Signal) |
 | SERVO_BR | Back-right servo (GND / V+ / Signal) |
 | BATT | Battery input |
-| SENSOR | [Sensor name] connection |
+| SENSOR |ultrasonic wave sensor connection |
 
 *(Update this table to match your final silkscreen labels.)*
 
