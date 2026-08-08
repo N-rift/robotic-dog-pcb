@@ -8,11 +8,11 @@ This board hosts the microcontroller and provides all the connections needed to 
 
 ## 🛠️ Specifications
 
-- **Microcontroller:** [Arduino Nano / ESP32] <!-- pick one -->
+- **Microcontroller:** Arduino Uno 
 - **Layers:** Double layer (top + bottom copper)
 - **Servo outputs:** 4x headers (GND / V+ / Signal), one per leg
 - **Power input:** Battery connector
-- **Sensor port:** 1x header for [sensor name/type]
+- **Sensor port:** 1x header for ultrasonic wave sensor
 
 ## 📂 Connector Reference
 
@@ -24,8 +24,6 @@ This board hosts the microcontroller and provides all the connections needed to 
 | SERVO_BR | Back-right servo (GND / V+ / Signal) |
 | BATT | Battery input |
 | SENSOR |ultrasonic wave sensor connection |
-
-*(Update this table to match your final silkscreen labels.)*
 
 ## 📐 Design Notes
 
