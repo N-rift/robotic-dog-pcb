@@ -32,6 +32,8 @@ This board hosts the microcontroller and provides all the connections needed to 
 - Bottom layer used as a ground plane/fill to simplify routing and reduce noise on servo signal lines.
 - Power traces routed wider than signal traces to handle servo current draw.
 
+![design](design.png)
+
 ## 📂 Repository Structure
 
 ```
